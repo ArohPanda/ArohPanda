@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArohPanda
 - 👀 I’m interested in programming and web deveopment with python
 - 🌱 I’m currently learning python development,(i am quite young btw. below 18)
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Web development. I have a website btw. it's https://aroh.pythonanywhere.com/.
 - 📫 How to reach me ...
 
 <!---
